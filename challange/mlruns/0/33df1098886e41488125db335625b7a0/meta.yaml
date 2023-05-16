@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/33df1098886e41488125db335625b7a0/artifacts
+end_time: 1684210979081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33df1098886e41488125db335625b7a0
+run_name: defiant-lark-60
+run_uuid: 33df1098886e41488125db335625b7a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684210972209
+status: 4
+tags: []
+user_id: mertatalay

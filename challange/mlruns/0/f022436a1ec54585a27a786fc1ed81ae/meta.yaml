@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/f022436a1ec54585a27a786fc1ed81ae/artifacts
+end_time: 1684196673499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f022436a1ec54585a27a786fc1ed81ae
+run_name: fearless-steed-616
+run_uuid: f022436a1ec54585a27a786fc1ed81ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684196673484
+status: 4
+tags: []
+user_id: mertatalay

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/21d3d9173bfe48888f28a3d8cb76df26/artifacts
+end_time: 1684209083494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21d3d9173bfe48888f28a3d8cb76df26
+run_name: calm-doe-323
+run_uuid: 21d3d9173bfe48888f28a3d8cb76df26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684209083479
+status: 4
+tags: []
+user_id: mertatalay

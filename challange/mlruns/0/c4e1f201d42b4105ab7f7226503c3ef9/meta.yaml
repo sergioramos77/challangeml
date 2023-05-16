@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/c4e1f201d42b4105ab7f7226503c3ef9/artifacts
+end_time: 1684198363398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e1f201d42b4105ab7f7226503c3ef9
+run_name: enchanting-robin-517
+run_uuid: c4e1f201d42b4105ab7f7226503c3ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684198363382
+status: 4
+tags: []
+user_id: mertatalay

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/ebeea0e6b7f645efa0ce50def226133c/artifacts
+end_time: 1684210423850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebeea0e6b7f645efa0ce50def226133c
+run_name: funny-seal-296
+run_uuid: ebeea0e6b7f645efa0ce50def226133c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684210416953
+status: 3
+tags: []
+user_id: mertatalay

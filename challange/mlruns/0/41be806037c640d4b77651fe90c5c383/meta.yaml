@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/41be806037c640d4b77651fe90c5c383/artifacts
+end_time: 1684196918821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41be806037c640d4b77651fe90c5c383
+run_name: dashing-snake-344
+run_uuid: 41be806037c640d4b77651fe90c5c383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684196918805
+status: 4
+tags: []
+user_id: mertatalay

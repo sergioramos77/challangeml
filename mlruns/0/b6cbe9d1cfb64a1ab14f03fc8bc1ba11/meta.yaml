@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6cbe9d1cfb64a1ab14f03fc8bc1ba11/artifacts
+end_time: 1684214673750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6cbe9d1cfb64a1ab14f03fc8bc1ba11
+run_name: shivering-skink-711
+run_uuid: b6cbe9d1cfb64a1ab14f03fc8bc1ba11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684214667106
+status: 4
+tags: []
+user_id: mertatalay

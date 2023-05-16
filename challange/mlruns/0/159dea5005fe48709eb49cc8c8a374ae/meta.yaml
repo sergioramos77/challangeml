@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/159dea5005fe48709eb49cc8c8a374ae/artifacts
+end_time: 1684210206311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 159dea5005fe48709eb49cc8c8a374ae
+run_name: spiffy-dog-230
+run_uuid: 159dea5005fe48709eb49cc8c8a374ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684210199434
+status: 4
+tags: []
+user_id: mertatalay

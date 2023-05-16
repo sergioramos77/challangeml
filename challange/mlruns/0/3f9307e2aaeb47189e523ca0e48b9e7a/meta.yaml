@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/3f9307e2aaeb47189e523ca0e48b9e7a/artifacts
+end_time: 1684208445552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9307e2aaeb47189e523ca0e48b9e7a
+run_name: thoughtful-shrike-58
+run_uuid: 3f9307e2aaeb47189e523ca0e48b9e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684208438670
+status: 3
+tags: []
+user_id: mertatalay

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/c0f450c5d4924d4ba46cf0458555a464/artifacts
+end_time: 1684210145366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0f450c5d4924d4ba46cf0458555a464
+run_name: grandiose-newt-137
+run_uuid: c0f450c5d4924d4ba46cf0458555a464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684210138471
+status: 4
+tags: []
+user_id: mertatalay

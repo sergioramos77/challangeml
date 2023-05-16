@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/e36838f9156d48ea9f8924d4c9592d61/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36838f9156d48ea9f8924d4c9592d61
+run_name: gifted-newt-236
+run_uuid: e36838f9156d48ea9f8924d4c9592d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684212918104
+status: 1
+tags: []
+user_id: mertatalay

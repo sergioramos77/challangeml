@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/5c54549b26c5487cadcc338486a826de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c54549b26c5487cadcc338486a826de
+run_name: lyrical-penguin-348
+run_uuid: 5c54549b26c5487cadcc338486a826de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684211991612
+status: 1
+tags: []
+user_id: mertatalay

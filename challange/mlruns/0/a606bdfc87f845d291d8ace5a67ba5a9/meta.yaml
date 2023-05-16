@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/a606bdfc87f845d291d8ace5a67ba5a9/artifacts
+end_time: 1684211528681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a606bdfc87f845d291d8ace5a67ba5a9
+run_name: secretive-fish-523
+run_uuid: a606bdfc87f845d291d8ace5a67ba5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684211521889
+status: 3
+tags: []
+user_id: mertatalay

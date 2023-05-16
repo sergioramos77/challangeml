@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/a96733ad37cb47cca0c26d0ee7039049/artifacts
+end_time: 1684199137546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a96733ad37cb47cca0c26d0ee7039049
+run_name: bald-shad-391
+run_uuid: a96733ad37cb47cca0c26d0ee7039049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684199131108
+status: 4
+tags: []
+user_id: mertatalay

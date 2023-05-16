@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/277be0f5f2214155992bd64350959a18/artifacts
+end_time: 1684201105433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 277be0f5f2214155992bd64350959a18
+run_name: loud-swan-714
+run_uuid: 277be0f5f2214155992bd64350959a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684201098610
+status: 3
+tags: []
+user_id: mertatalay

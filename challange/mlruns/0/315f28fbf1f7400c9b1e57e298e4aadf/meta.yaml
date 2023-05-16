@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/315f28fbf1f7400c9b1e57e298e4aadf/artifacts
+end_time: 1684198254062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315f28fbf1f7400c9b1e57e298e4aadf
+run_name: adaptable-gnu-457
+run_uuid: 315f28fbf1f7400c9b1e57e298e4aadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684198254046
+status: 4
+tags: []
+user_id: mertatalay
