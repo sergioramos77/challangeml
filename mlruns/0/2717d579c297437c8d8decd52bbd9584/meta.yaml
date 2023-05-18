@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2717d579c297437c8d8decd52bbd9584/artifacts
+end_time: 1684380599497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2717d579c297437c8d8decd52bbd9584
+run_name: awesome-skink-595
+run_uuid: 2717d579c297437c8d8decd52bbd9584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684380592586
+status: 3
+tags: []
+user_id: mertatalay

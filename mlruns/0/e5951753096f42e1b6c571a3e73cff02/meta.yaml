@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e5951753096f42e1b6c571a3e73cff02/artifacts
+end_time: 1684382688401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5951753096f42e1b6c571a3e73cff02
+run_name: suave-conch-609
+run_uuid: e5951753096f42e1b6c571a3e73cff02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684382681531
+status: 3
+tags: []
+user_id: mertatalay

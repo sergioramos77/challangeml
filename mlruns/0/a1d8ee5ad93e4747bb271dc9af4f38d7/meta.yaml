@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a1d8ee5ad93e4747bb271dc9af4f38d7/artifacts
+end_time: 1684382815742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d8ee5ad93e4747bb271dc9af4f38d7
+run_name: zealous-gnat-287
+run_uuid: a1d8ee5ad93e4747bb271dc9af4f38d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684382808872
+status: 3
+tags: []
+user_id: mertatalay

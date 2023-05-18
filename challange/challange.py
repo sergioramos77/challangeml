@@ -60,7 +60,9 @@ for col in df.columns[:31]:
 ##Preprocessing
 
 # Drop the "Unnamed: 32" column
-df = df.drop(columns=['Unnamed: 32'])
+df = df.drop(columns=['Unnamed: 32',"fractal_dimension_mean","id"])
+df = df.drop(df.iloc[:, 11:31],axis = 1)
+
 
 # Print data information and description
 print("Data Info:")
@@ -85,9 +87,12 @@ df['diagnosis'] = (df['diagnosis'] == 'M').astype(int)
 # Separate the target variable from the features
 y = df['diagnosis']
 X = df.iloc[:, 2:]
+print("1xx")
+print(X.columns)
+print("1yy")
+print(y)
 
-print("xxxxxx1")
-print(X)
+
 # Normalize the data using StandardScaler
 scaler = StandardScaler()
 X = scaler.fit_transform(X)
@@ -98,14 +103,20 @@ X[:, zero_std_cols] = np.nan_to_num(X[:, zero_std_cols])
 
 
 print("\nNormalized data:")
-print(X)
 
 
 ##Models
 # separate the target column from the input features
-X = df.drop(['diagnosis','id'], axis=1)
+X = df.drop(['diagnosis',"radius_se"], axis=1)
 y = df['diagnosis']
+X = X.drop(columns=["symmetry_mean","smoothness_mean","texture_mean","compactness_mean"])
 
+
+
+print("22xx")
+print(X.columns)
+print("22yy")
+print(y)
 # set the random state for reproducibility
 random_state = 42
 
@@ -135,7 +146,8 @@ logreg.fit(X_train, y_train)
 
 # make predictions on the test set
 y_pred = logreg.predict(X_test)
-
+print("predictionnnn")
+print(y_pred)
 # print the accuracy score of the test set predictions
 print('\nTest accuracy score:', accuracy_score(y_test, y_pred))
 
@@ -196,7 +208,6 @@ with mlflow.start_run():
     run_id = run.info.run_id
     print("Run ID:", run_id)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
 
 
     # Your model training code here

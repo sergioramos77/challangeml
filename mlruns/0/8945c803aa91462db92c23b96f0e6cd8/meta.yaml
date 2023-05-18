@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8945c803aa91462db92c23b96f0e6cd8/artifacts
+end_time: 1684366860429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8945c803aa91462db92c23b96f0e6cd8
+run_name: resilient-shark-908
+run_uuid: 8945c803aa91462db92c23b96f0e6cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684366853633
+status: 3
+tags: []
+user_id: mertatalay

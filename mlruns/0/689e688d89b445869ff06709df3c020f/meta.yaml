@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/689e688d89b445869ff06709df3c020f/artifacts
+end_time: 1684381372829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689e688d89b445869ff06709df3c020f
+run_name: fortunate-lynx-174
+run_uuid: 689e688d89b445869ff06709df3c020f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684381364967
+status: 3
+tags: []
+user_id: mertatalay
