@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mertatalay/Desktop/programacionII/challange/mlruns/0/6159c1ee8b8c41759a80f1da4ed9a94f/artifacts
+end_time: 1684445381835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6159c1ee8b8c41759a80f1da4ed9a94f
+run_name: nervous-grub-620
+run_uuid: 6159c1ee8b8c41759a80f1da4ed9a94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684445375085
+status: 3
+tags: []
+user_id: mertatalay
